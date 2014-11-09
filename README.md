@@ -88,7 +88,7 @@ plot4 <- function() {
 }
 plot4()
 
-![GitHub Logo] (https://github.com/nilmit/ExData_Plotting1/issues/1)
-![GitHub Logo] (https://github.com/nilmit/ExData_Plotting1/issues/2)
-![GitHub Logo] (https://github.com/nilmit/ExData_Plotting1/issues/3)
-![GitHub Logo] (https://github.com/nilmit/ExData_Plotting1/issues/4)
+![Plot1.png] (https://github.com/nilmit/ExData_Plotting1/issues/1)
+![Plot2.png] (https://github.com/nilmit/ExData_Plotting1/issues/2)
+![Plot3.png] (https://github.com/nilmit/ExData_Plotting1/issues/3)
+![Plot4.png] (https://github.com/nilmit/ExData_Plotting1/issues/4)
