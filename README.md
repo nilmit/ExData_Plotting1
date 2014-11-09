@@ -24,7 +24,7 @@ if(!file.exists("exdata-data-household_power_consumption.zip")) {
  sdatafile$Sub_metering_3 <- as.numeric(as.character(sdatafile$Sub_metering_3))
 
 #############################################
-#PLOT 1
+#PLOT 1  ![Plot1.png] (https://github.com/nilmit/ExData_Plotting1/issues/1)
 #############################################
 plot1 <- function() {
    par(mfrow=c(1,1))
