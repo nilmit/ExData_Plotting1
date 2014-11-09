@@ -11,3 +11,4 @@ plot1 <- function() {
         cat("Plot1.png saved in", getwd())
 }
 plot1()
+
