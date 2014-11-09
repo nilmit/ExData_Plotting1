@@ -88,5 +88,5 @@ plot4 <- function() {
 }
 plot4()
 
-![GitHub Logo] (/Desktop/plot1.png)
-![GitHub Logo] (/Desktop/plot2.png)
+![GitHub Logo] (https://github.com/nilmit/ExData_Plotting1/issues)
+![GitHub Logo] (https://github.com/nilmit/ExData_Plotting1/issues)
