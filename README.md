@@ -86,3 +86,6 @@ plot4 <- function() {
          cat("plot4.png saved in", getwd())
 }
 plot4()
+
+![GitHub Logo] (/Desktop/plot1.png)
+![GitHub Logo] (/Desktop/plot2.png)
