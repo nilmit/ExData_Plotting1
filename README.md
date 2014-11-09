@@ -24,7 +24,7 @@ if(!file.exists("exdata-data-household_power_consumption.zip")) {
  sdatafile$Sub_metering_3 <- as.numeric(as.character(sdatafile$Sub_metering_3))
 
 #############################################
-#PLOT 1  click ![Plot1.png] (https://github.com/nilmit/ExData_Plotting1/issues/1)
+#PLOT 1   ![click Plot1.png] (https://github.com/nilmit/ExData_Plotting1/issues/1)
 #############################################
 plot1 <- function() {
    par(mfrow=c(1,1))
@@ -35,7 +35,7 @@ plot1 <- function() {
 }
 plot1()
 #############################################
-#PLOT 2   click ![Plot1.png] (https://github.com/nilmit/ExData_Plotting1/issues/2)
+#PLOT 2    ![click Plot1.png] (https://github.com/nilmit/ExData_Plotting1/issues/2)
 #############################################
 plot2 <- function() {
     par(mfrow=c(1,1))
@@ -47,7 +47,7 @@ plot2 <- function() {
 plot2()
 
 ##############################################
-#PLOT 3   click ![Plot1.png] (https://github.com/nilmit/ExData_Plotting1/issues/3)
+#PLOT 3   ![click Plot1.png] (https://github.com/nilmit/ExData_Plotting1/issues/3)
 ##############################################
 plot3 <- function() {
    par(mfrow=c(1,1))
@@ -62,7 +62,7 @@ plot3 <- function() {
 plot3()
 
 ##############################################
-#PLOT 4    click  ![Plot1.png] (https://github.com/nilmit/ExData_Plotting1/issues/4)
+#PLOT 4     ![click Plot1.png] (https://github.com/nilmit/ExData_Plotting1/issues/4)
 ##############################################
 plot4 <- function() {
          par(mfrow=c(2,2))         
